@@ -2,10 +2,10 @@
 A simple and responsive To-Do list application built using HTML, CSS, and JavaScript.
 
 # Features
-Add new tasks to the list
-Mark tasks as completed
-Delete tasks from the list
-Responsive design for mobile and desktop views
+Add new tasks to the list.
+Mark tasks as completed.
+Delete tasks from the list.
+Responsive design for mobile and desktop views.
 
 # Technologies Used
 HTML5
