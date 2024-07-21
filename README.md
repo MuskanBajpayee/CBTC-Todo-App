@@ -1,5 +1,5 @@
 # CBTC-Todo-App
-A simple and responsive To-Do list application built using HTML, CSS, and JavaScript.
+The To-Do App is a straightforward, user-friendly application designed to help users manage their tasks efficiently. Built using HTML, CSS, and JavaScript, the app provides an intuitive interface where users can add, mark as completed, and delete tasks from their to-do lists.
 
 # Features
 Add new tasks to the list.
